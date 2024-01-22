@@ -11,3 +11,9 @@ Estou em busca de oportunidades de estágio na área de tecnologia, onde posso a
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroska10&layout=compact)
+
+
+## curiosidade
+
+O desafio me encanta
+
